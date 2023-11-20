@@ -6,7 +6,7 @@ This enhanced template for Ruby on Rails projects provides a solid starting poin
 
 1. Create a new Rails application using this template:
 ```bash
-rails new myapp -m https://raw.githubusercontent.com/your-username/your-repo-name/main/template.rb
+rails new myapp -m https://raw.githubusercontent.com/LukasPol/rails-template/main/template.rb
 ```
 
 2. Follow the interactive prompts to customize your project. Choose options for RuboCop, RSpec, Factory Bot, and more.
@@ -33,3 +33,7 @@ The template configures the config/database.yml file, allowing you to set up the
 ## Contributing
 
 If you have any suggestions, bug reports, or improvements, feel free to open an issue or submit a pull request.
+
+## License
+
+This Rails template is open-source and available under the [MIT License](LICENSE).
