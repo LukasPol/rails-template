@@ -2,13 +2,6 @@
 
 This enhanced template for Ruby on Rails projects provides a solid starting point with additional configurations and tools to boost your development experience.
 
-## Features
-
-- **RuboCop Configuration:** Opinionated code style and quality checks to maintain clean and consistent code.
-- **RSpec Testing Framework:** Configured with FactoryBot, FFaker, Shoulda Matchers, and DatabaseCleaner for comprehensive testing.
-- **SimpleCov:** Code coverage analysis tool integrated to track test coverage.
-- **Rubocop:** Code analyzer and formatter
-
 ## How to Use
 
 1. Create a new Rails application using this template:
