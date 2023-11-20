@@ -251,4 +251,13 @@ if my_ask?('Would you like to install Rubocop?')
   end
 end
 
+after_bundle do
+  if my_ask?('Would you like me to make the first commit?')
+    # Git
+    git :init
+    git add: "."
+    git commit: "-m 'Initial commit with template from https://github.com/LukasPol/rails-template'"
+  end
+end
+
 say "Your Rails application has been configured successfully! Run 'rails db:create' to create the database."
