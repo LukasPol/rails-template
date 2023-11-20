@@ -30,6 +30,36 @@ The template configures the config/database.yml file, allowing you to set up the
 ### RuboCop
 - RuboCop: A static code analyzer and formatter, configured to enforce a consistent and clean code style.
 
+### Feature Requests and Enhancements
+
+Feel free to contribute to the improvement of this template! Below are some planned enhancements and feature requests:
+
+1. [**Add Docker support to the template**](https://github.com/LukasPol/rails-template/issues/1)
+   - Dockerizing the project for improved consistency and deployment.
+
+2. [**Integrate RubyCritic for code analysis**](https://github.com/LukasPol/rails-template/issues/2)
+   - Enhance code quality with RubyCritic.
+
+3. [**Implement Foreman for process management**](https://github.com/LukasPol/rails-template/issues/3)
+   - Streamline process management during development.
+
+4. [**Integrate Devise for authentication**](https://github.com/LukasPol/rails-template/issues/4)
+   - Include authentication functionality using Devise.
+
+5. [**Include Simple Form for form generation**](https://github.com/LukasPol/rails-template/issues/5)
+   - Streamline form creation with Simple Form.
+
+6. [**Integrate Tailwind CSS for utility-first styling**](https://github.com/LukasPol/rails-template/issues/6)
+   - Enhance styling capabilities using Tailwind CSS.
+
+7. [**Implement Internationalization (I18n) for multilingual support**](https://github.com/LukasPol/rails-template/issues/7)
+   - Enable multilingual support with I18n.
+
+8. [**Create a new template specifically for API projects**](https://github.com/LukasPol/rails-template/issues/8)
+   - Develop a template tailored for API projects.
+
+Feel free to check the linked issues for more details and contribute to the discussion or implementation!
+
 ## Contributing
 
 If you have any suggestions, bug reports, or improvements, feel free to open an issue or submit a pull request.
