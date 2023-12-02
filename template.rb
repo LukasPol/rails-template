@@ -20,8 +20,6 @@ apply 'https://raw.githubusercontent.com/LukasPol/rails-template/develop/gitigno
 say "\n"
 # Optionally install RSpec
 apply 'https://raw.githubusercontent.com/LukasPol/rails-template/develop/rspec.rb'
-# require_relative 'rspec'
-# setup_rspec
 
 say "\n"
 # Optionally install Rubocop
