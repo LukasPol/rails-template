@@ -1,6 +1,6 @@
-say "Setting up .gitignore..."
+say 'Setting up .gitignore...'
 
-append_file ".gitignore", <<~TXT
+append_file '.gitignore', <<~TXT
   # Ignore .env file containing credentials.
   .env
 
@@ -12,5 +12,3 @@ append_file ".gitignore", <<~TXT
   .vscode/
   .idea/
 TXT
-
-say "\n"
